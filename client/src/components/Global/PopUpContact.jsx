@@ -12,14 +12,14 @@ import { MdClose } from "react-icons/md";
 import { BsChatDotsFill } from "react-icons/bs";
 
 const FORM_ACTION_URL =
-  "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeGwTP36xJAhrn4ALbfBqcYQE3jLe0F5zHOHL1T2gU7_S0dow/formResponse";
+  "https://docs.google.com/forms/u/0/d/e/1FAIpQLScvPggXL6sdSvu3eeEx8TmGwXdbV-ZBdME18f5w437auA00wg/formResponse?pli=1";
 
 const ENTRY_IDS = {
-  name: "entry.624530064",
-  email: "entry.1240300746",
-  phone: "entry.1539245784",
-  service: "entry.1840191769",
-  message: "entry.143747699",
+  name: "entry.1393499013",
+  email: "entry.1556130701",
+  phone: "entry.1366914006",
+  service: "entry.532933575",
+  message: "entry.1597515378",
 };
 
 const SERVICES = [
